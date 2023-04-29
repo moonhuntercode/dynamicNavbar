@@ -1,0 +1,10 @@
+{
+  "name": "navbar",
+  "scripts": {
+    "start":"parcel src/index.html",
+    "build":"parcel build src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
